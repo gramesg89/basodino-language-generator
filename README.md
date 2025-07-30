@@ -1,5 +1,8 @@
 # BasodinoBot
 
+## 🚀 Try It in Colab
+👉 [Open in Colab](https://colab.research.google.com/github/gramesg89/basodino-language-generator/blob/main/notebooks/basodino_bsoup.ipynb)
+
 ⚠️ **Project Status: In Progress**
 
 BasodinoBot is a toolkit for generating words in a constructed language (conlang) called *Basodino* using Latin source vocabulary. It includes:
