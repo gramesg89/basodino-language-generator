@@ -20,7 +20,7 @@ This project blends linguistics, conlang creation, and code. It's a personal lan
 - `notebooks/` – Colab-ready notebook with working code
 - `examples/` – Input/output samples and transformations
 - `data/` – Sample scraped and transformed output  
-  📊 [Download sample output (CSV)](data/basodino_output.csv)
+  📊 [Download sample output (CSV)]([data/basodino_output.csv](https://github.com/gramesg89/basodino-language-generator/blob/main/data/basodino_ouput.csv))
 
 ## ✅ Current Features
 
