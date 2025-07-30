@@ -15,6 +15,13 @@ BasodinoBot is a toolkit for generating words in a constructed language (conlang
 
 This project blends linguistics, conlang creation, and code. It's a personal language engineering project designed to evolve into a chatbot that can speak and teach Basodino.
 
+## 📂 Contents
+
+- `notebooks/` – Colab-ready notebook with working code
+- `examples/` – Input/output samples and transformations
+- `data/` – Sample scraped and transformed output  
+  📊 [Download sample output (CSV)](data/basodino_output.csv)
+
 ## ✅ Current Features
 
 - Scrapes Latin verbs and their IPA from Wiktionary
@@ -30,7 +37,7 @@ This project blends linguistics, conlang creation, and code. It's a personal lan
 
 ## 📂 Folders
 
-- `examples/`: Latin-to-Basodino transformation examples and IPA logs
+- `data/`: Latin-to-Basodino transformation examples and IPA logs
 
 ## 👨‍💻 Tech Stack
 
@@ -41,5 +48,5 @@ This project blends linguistics, conlang creation, and code. It's a personal lan
 
 ## 🌍 What Is Basodino?
 
-Basodino is a fictional language inspired by Romance languages and designed with naturalistic sound changes, custom grammar, and a distinct lexicon. This bot builds its evolving vocabulary.
+Basodino is a fictional language inspired by Romance languages and designed with naturalistic sound changes, custom grammar, and a distinct lexicon. It is meant to represent a hypothetical Romance language in which Old High German acts as a substrate under the Vulgar Latin of the 4th century. This project applies these sound changes up until New High German. 
 
