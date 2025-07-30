@@ -18,11 +18,10 @@ This project blends linguistics, conlang creation, and code. It's a personal lan
 ## 📂 Contents
 
 - `notebooks/` – Colab-ready notebook with working code
-- `examples/` – Input/output samples and transformations
 - `data/` – Sample scraped and transformed output  
-  📊 [Download sample output (CSV)](https://github.com/gramesg89/basodino-language-generator/blob/main/data/basodino_ouput.csv)
-  OR [View full output in Google Sheets](https://docs.google.com/spreadsheets/d/1w-zlBhBFOh0FrtZdLvTv6lQNDLmS1sNB4jGkR8DBe48/edit?usp=sharing)
-
+   - 📊 [Download sample output (CSV)](https://github.com/gramesg89/basodino-language-generator/blob/main/data/basodino_ouput.csv)
+    OR [View full output in Google Sheets](https://docs.google.com/spreadsheets/d/1w-zlBhBFOh0FrtZdLvTv6lQNDLmS1sNB4jGkR8DBe48/edit?usp=sharing)
+  - Sample of prompt set🧠 [Download full seed prompt set (JSON)](https://github.com/gramesg89/basodino-language-generator/blob/main/data/basodino_seed_examples.json)
 
 ## ✅ Current Features
 
