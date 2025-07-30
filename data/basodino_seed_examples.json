@@ -1,0 +1,128 @@
+[
+  {
+    "type": "translation",
+    "Subtype": "Basic declarative sentences",
+    "instruction": "Translate to Basodino",
+    "input": "You are my friend.",
+    "output": "Çû es mè aimeich. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Basic declarative sentences",
+    "instruction": "Translate to Basodino",
+    "input": "She likes apples.",
+    "output": "Ele ame phûmes. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Basic declarative sentences",
+    "instruction": "Translate to Basodino",
+    "input": "My mother cooks dinner.",
+    "output": "Mê mater checeine cîne. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Basic declarative sentences",
+    "instruction": "Translate to Basodino",
+    "input": "This room feels cold.",
+    "output": "Fa fredd en cheste chambre. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Questions (yes/no, WH)",
+    "instruction": "Translate to Basodino",
+    "input": "Do you speak English?",
+    "output": "Pharles-çû anglîs?"
+  },
+  {
+    "type": "translation",
+    "Subtype": "Questions (yes/no, WH)",
+    "instruction": "Translate to Basodino",
+    "input": "Where do you live?",
+    "output": "Ûi habites-çû?"
+  },
+  {
+    "type": "translation",
+    "Subtype": "Questions (yes/no, WH)",
+    "instruction": "Translate to Basodino",
+    "input": "Why are you sad?",
+    "output": "Pherquî stas-çû çanz triste?"
+  },
+  {
+    "type": "translation",
+    "Subtype": "Questions (yes/no, WH)",
+    "instruction": "Translate to Basodino",
+    "input": "Is it raining?",
+    "output": "Sta phlobènd?"
+  },
+  {
+    "type": "translation",
+    "Subtype": "Negation",
+    "instruction": "Translate to Basodino",
+    "input": "I don’t like coffee.",
+    "output": "Nu me phlace el café. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Negation",
+    "instruction": "Translate to Basodino",
+    "input": "He isn’t here right now.",
+    "output": "El nu sta chei en cheste moment. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Negation",
+    "instruction": "Translate to Basodino",
+    "input": "They don’t have a car.",
+    "output": "Els nu aben un auto. "
+  },
+  {
+    "type": "translation",
+    "Subtype": "Negation",
+    "instruction": "Translate to Basodino",
+    "input": "This doesn’t work.",
+    "output": "Cheste nu funcione. "
+  },
+  {
+    "type": "conjugation",
+    "Subtype": "Regular verb, present tense",
+    "instruction": "Conjugate ‘to eat’ in present tense",
+    "input": "Verb: manzàr",
+    "output": "I eat: Io manze; You (singular) eat: çou manzes; He/She/They (singular) eats: El/elle manze; We eat: Nos manzàm; You (plural) eat: Vos manzàş; They (plural) eat: Lei manzen"
+  },
+  {
+    "type": "conjugation",
+    "Subtype": "Regular verb, past tense",
+    "instruction": "Conjugate ‘to suffer‘ in the past preterite tense",
+    "input": "Verb: tolîr",
+    "output": "I suffered: Io toile; You (singular) suffered: çou toleste; He/She/They (singular) suffered: El/Elle dole; We suffered: Nos tolîm; You (plural) suffered: Vos tolèste; They (plural) suffered: Lei tolîren"
+  },
+  {
+    "type": "conjugation",
+    "Subtype": "Irregular verb, any tense",
+    "instruction": "Conjugate ‘to say‘ in the present tense",
+    "input": "Verb: teicer",
+    "output": "I say: Io teiche; You (singular) say: çou teice; He/She/They (singular) say: El/elle teice; We say: Nos teim; You (plural) say: Vos teiş; They (plural) say: Lei teichen"
+  },
+  {
+    "type": "conjugation",
+    "Subtype": "Future/conditional/subjunctive",
+    "instruction": "Conjugate ‘to have‘ in the present subjunctive",
+    "input": "Verb: abîr",
+    "output": "That I may have: Io aie; That you (singular) may have: çou aies; That he/she/they (singular) may have: el/elle aie;That we may have: vos aiàm; That you (plural) may have: aiàş; That they (plural) have have: lei aien"
+  },
+  {
+    "type": "grammar",
+    "Subtype": "Possession",
+    "instruction": "Explain possession",
+    "input": "‘my book’, ‘your dog’, ‘their house’",
+    "output": "Possession is shown with possessive adjects that decline for person and for the number and gender of the thing possess. For example, 'my book' is 'mè leiber',  'your dog' is either 'çu chan' (2nd person singular) or 'voster chan' (2nd person plural); 'their house' is 'lûr chase'. Note that this last one does not inflect for gender!"
+  },
+  {
+    "type": "grammar",
+    "Subtype": "Negation",
+    "instruction": "Explain how verbs are negated",
+    "input": "I don't know anymore'",
+    "output": "Negation is shown by adding the negative adverb 'nû' before the conjugated verb. For example, 'I don't know' is 'Io nû sai'. For more complex negation, a second adverb can be added after the conjugated verb. For example, 'I don't know anymore' is 'Io nû sai phlus'. Notice that the first person conjugation of this verb is irregular!"
+  }
+]
